@@ -1,4 +1,4 @@
-#B.
+*B*
 
 
 #A super simple “Hello World” smart contract: a storeNumber function to store an unsigned integer, then a retrieveNumber function to retrieve it, with clear and concise code comments. Smart contract completed and deployed on Remix.
